@@ -1,0 +1,1 @@
+<?php $location = "http://localhost/gallery/"; ?>
